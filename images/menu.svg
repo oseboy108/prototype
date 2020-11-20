@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <g id="menu" transform="translate(-1697.5 -95.5)">
+    <line id="Line_1" data-name="Line 1" class="cls-1" x2="77" transform="translate(1697.5 117.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="77" transform="translate(1697.5 135.5)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-1" x2="77" transform="translate(1697.5 98.5)"/>
+  </g>
+</svg>
